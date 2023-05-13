@@ -1,4 +1,4 @@
-# RSI Trading Strategy
+# RSI Application with Python
 This is a Python script that uses the Relative Strength Index (RSI) to identify overbought and oversold conditions in a list of tickers and outputs the tickers that meet the criteria.
 
 ## Installation and Setup
